@@ -1,2 +1,2 @@
-# docker-env-genisys
-Docker environment for building and running Genisys
+# docker-env-tstar
+Docker environment for building and running T-STAR
